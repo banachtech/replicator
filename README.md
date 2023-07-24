@@ -2,7 +2,7 @@
 
 This notebook compares different type of loss measures - mean square, maximum of squared difference, maximum of absolute difference and cumulative mean quared return difference.
 
-Replicaitng model is a standard CNN.
+Replicating model is a standard CNN.
 
 Set loss function with, for eample, ```lossfn=mse```.
 
